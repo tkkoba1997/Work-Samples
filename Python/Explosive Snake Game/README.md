@@ -9,5 +9,9 @@
 ### Requirements
 Need Python 3.x and pygame package installed. Must run the snake_game.py file from the directory it's located in.
 
+### Notes
+The contents of the unzipped "Explosive Snake Game" and its zipped equivalent are identical. The unzipped version is 
+provided so downloading the zip file is not necessary to view the work sample.
+
 ### How to play
 Use keyboard arrow keys to keep the snake from crashing into the screen walls, brown boxes, and snake itself to avoid explosion _(gameover)_.
