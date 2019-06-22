@@ -10,7 +10,7 @@
 Need Python 3.x and pygame package installed. Must run the snake_game.py file from the directory it's located in.
 
 ### Notes
-The contents of the unzipped "Explosive Snake Files" folder and ExplosiveSnakeGame.zip are identical. The unzipped version is 
+The contents of the "Explosive Snake Files" folder and ExplosiveSnakeGame.zip are identical. The former directory is 
 provided so downloading the zip file is not necessary to view the work sample.
 
 ### How to play
